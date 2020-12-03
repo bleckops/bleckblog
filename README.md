@@ -9,6 +9,6 @@ Un blog chido para el curso de Git de platzi
 * Flujo de trabajo de git
 * Trucos de git
 
-** Que bueno que comenzamos y ya pronto terminaremos esto **
+**Que bueno que comenzamos y ya pronto terminaremos esto**
 
 Otros proyectos: [La marquería](https://github.com/bleckops/lamarqueria "**La marquería**")
