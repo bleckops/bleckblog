@@ -11,4 +11,4 @@ Un blog chido para el curso de Git de platzi
 
 ** Que bueno que comenzamos y ya pronto terminaremos esto **
 
-Otros proyectos: [La marquería](https://github.com/bleckops/lamarqueria *La marquería*)
+Otros proyectos: [La marquería](https://github.com/bleckops/lamarqueria "**La marquería**")
